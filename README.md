@@ -1,4 +1,4 @@
-# vue
+# vuex Demo运行
 
 > A Vue.js project
 
