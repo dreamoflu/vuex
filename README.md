@@ -1,6 +1,6 @@
 # vuex Demo运行
 
-> A Vue.js project
+> 包含vuex入门示例的 Vue.js 项目
 
 ## Build Setup
 
